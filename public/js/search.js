@@ -18,6 +18,7 @@ $(document).ready(function() {
             resultsContainer.append('<li>No Results Found</li>');
             resultsContainer.show();
         }
+        
     }
     /**
      * 
